@@ -1,7 +1,7 @@
 # Usage: 
 # python repack_images.py stock.img folderwithkernels/
 #
-# Repacks your boot/recovery image with all kernels in folderwithkernels/ dir.
+# Repacks your boot/recovery image with all kernels from folderwithkernels/ dir.
 # Uses tool.exe for repacking
 
 import sys
