@@ -1,4 +1,4 @@
-Copyright (c) 2017, vk.com/smart_rom, Danila Suslov <d@suslovd.ru>
+Copyright (c) 2017, Danila Suslov <d@suslovd.ru>
 
 Permission to use, copy, modify, and/or distribute this software, with or without modifications, for any
 purpose with or without fee is hereby granted, provided that the above
@@ -12,9 +12,7 @@ WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-------------
-
-Авторские права: (c) 2017, vk.com/smart_rom, Danila Suslov <d@suslovd.ru>
+Авторские права: (c) 2017, Danila Suslov <d@suslovd.ru>
 
 Разрешается использование, копирование, модификация и/или распространение данного программного обеспечения,
 с изменениями или без, для любых целей за плату или бесплатно, при условии сохранения отметки об авторских
@@ -27,3 +25,9 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 ИЗ-ЗА НЕВОЗМОЖНОСТИ ИСПОЛЬЗОВАНИЯ, ПОТЕРИ ДАННЫХ ИЛИ ПРИБЫЛИ,
 ПОД ДЕЙСТВИЕМ ВЗЯТЫХ ОБЯЗАТЕЛЬСТВ, НЕБРЕЖНОСТИ ИЛИ ДРУГОГО ВРЕДОНОСНОГО ДЕЙСТВИЯ, ПРОИСХОДЯЩЕГО БЕЗ
 ИЛИ В СВЯЗИ С ИСПОЛЬЗОВАНИЕМ ИЛИ ВЫПОЛНЕНИЕМ ДАННОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ.
+
+---------
+
+Developed with vk.com/smart_rom support.
+
+Some of scripts use the AndImgTool app (tool.exe) written by And_pda http://4pda.ru/forum/index.php?showtopic=496786&st=1280#entry36879058
