@@ -1,6 +1,3 @@
-# Usage: 
-# python compare_defconfig.py defconfigA defconfigB > difference.txt
-# 
 # Compare two defconfigs and add difference in file
 
 import sys
