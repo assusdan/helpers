@@ -5,7 +5,7 @@
 ``` How to Use ```
 
 > ### For Parsing DTS From Stock DTB :
-                                dts.sh markw Image.gz-dtb
+                                ./dts.sh markw Image.gz-dtb
 				markw = my device name here
 			        Image.gz-dtb = my kernel name in this directory!
 
@@ -14,7 +14,7 @@
 				 mido_defconfig & mido1_defconfig = name of defconfig to compare!
 				 Difference.txt = Difference between two defconfig!
 
-> ###_For Repacking ( boot.img & recovery.img ) : 
+> ### For Repacking ( boot.img & recovery.img ) : 
                                  python repack_images.py stock.img folderwithkernels/
 
 
